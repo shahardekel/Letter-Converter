@@ -1,4 +1,6 @@
 # Letter-Converter
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 "Convert Letters" is a Python-based tool that allows you to translate selected text between Hebrew and English directly from the right-click Services menu on macOS.
 
